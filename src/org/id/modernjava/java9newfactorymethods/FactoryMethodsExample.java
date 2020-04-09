@@ -1,4 +1,4 @@
-package org.id.modernjava.java9factorymethods;
+package org.id.modernjava.java9newfactorymethods;
 
 
 import java.util.*;
